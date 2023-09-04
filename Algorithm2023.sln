@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Euclid", "001_Euclid\00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Factorial", "002_Factorial\002_Factorial.csproj", "{0BBF4369-AE5D-43D9-A00D-ED0FC0DB0607}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Fibonacci", "003_Fibonacci\003_Fibonacci.csproj", "{09D6E45C-AC62-43DE-99E2-BA7BCBE1D3FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0BBF4369-AE5D-43D9-A00D-ED0FC0DB0607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BBF4369-AE5D-43D9-A00D-ED0FC0DB0607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BBF4369-AE5D-43D9-A00D-ED0FC0DB0607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D6E45C-AC62-43DE-99E2-BA7BCBE1D3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D6E45C-AC62-43DE-99E2-BA7BCBE1D3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D6E45C-AC62-43DE-99E2-BA7BCBE1D3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D6E45C-AC62-43DE-99E2-BA7BCBE1D3FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
