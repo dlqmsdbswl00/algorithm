@@ -20,10 +20,12 @@ namespace _001_Euclid
 
         private int Euclid(int x, int y)
         {
-            if (y == 0)
+            // y가 0이라면 x가 최대공약수이므로 x 리턴
+            if (y == 0)     
                 return x;
+            // x와 y의 나머지를 새로운 x로 설정하고 y 그대로 유지
             else
-                return Euclid(y, x % y);
+                return Euclid(y, x % y);  
         }
     }
 }
